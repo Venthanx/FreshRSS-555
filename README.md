@@ -31,7 +31,7 @@ FreshRSS is a self-hosted RSS feed aggregator
 Replace the environment variables in `.env` with your own, then run :
 
 ```bash
-sudo docker-compose up -d
+docker-compose up -d
 ```
 
 You should now be able to access the freshrss setup instruction, it is quite straigthforward and nothing is required. 
